@@ -1,4 +1,4 @@
-## Практический опыт (Pet Projects)
+## Практический опыт/Pet Projects
 
 ### ⚙️ End-to-End система анализа речи для постинсультной реабилитации  
 [GitHub: Speech-Therapy-Rehab](https://github.com/QSquirreld/Speech-Therapy-Rehab)
